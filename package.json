@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/q310550690/uni-app-qrcode.git"
+    "url": "git+https://github.com/funzeros/freeQrcode.git"
   },
   "keywords": [
     "qrcode",
@@ -20,7 +20,7 @@
   "author": "sxq",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/q310550690/uni-app-qrcode/issues"
+    "url": "https://github.com/funzeros/freeQrcode/issues"
   },
-  "homepage": "https://github.com/q310550690/uni-app-qrcode#readme"
+  "homepage": "https://github.com/funzeros/freeQrcode#readme"
 }
